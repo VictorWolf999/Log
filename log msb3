@@ -1,0 +1,87 @@
+[03:04:02] [Session-Validator/INFO] [ReAuth]: Session validation successful
+[03:04:04] [Netty Client IO #2/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, advancedrocketrycore, randompatches, openmodscore, foamfixcore, opencomputers|core, elucore, fenceoverhaul, actuallyadditions, actuallybaubles, actuallycomputers, additionalbanners, advancedrocketry, ae2stuff, aether_legacy, akashictome, alternatingflux, flyringbaublemod, applecore, appliedenergistics2, armorplus, astralsorcery, autoreglib, avaritia, base, baubles, bhc, bdlib, bedbugs, betteradvancements, betterbuilderswands, betterquesting, betterthanbunnies, betterthanllamas, bibliocraft, binniecore, botany, binniedesign, extrabees, extratrees, genetics, biometweaker, blockcraftery, bonsaitrees, bookshelf, botania, botaunomy, brandonscore, calculator, rf-capability-adapter, capabilityproxy, careerbees, carryon, ceramics, cfb, chameleon, chancecubes, chickens, chisel, chiselsandbits, clumps, codechickenlib, cofhcore, cofhworld, colossalchests, commoncapabilities, compactmachines3, controlling, cookingforblockheads, cosmeticarmorreworked, craftingtweaks, ctgui, crafttweaker, crafttweakerjei, creeperconfetti, ctm, cucumber, custombackgrounds, custommainmenu, cyclopscore, darkutils, defaultoptions, diethopper, dimstages, dirt2path, draconicevolution, elulib, embers, csb_ench_table, endermanevo, endertanks, enderzoo, energeticsheep, environmentalmaterials, environmentaltech, etlunar, evilcraft, evilcraftcompat, extrabitmanipulation, extracells, extrautils2, bigreactors, exu2cer, factorytech, fastleafdecay, fluxnetworks, foamfix, forestry, forgelin, forgivingvoid, ftbl, ftbu, funkylocomotion, gamestages, gardenofglass, gendustry, advgenerators, googlyeyes, grue, hats, ichunutil, immersivecables, immersiveengineering, immersivepetroleum, immersivetech, incontrol, industrialforegoing, industrialmeat, ingameinfoxml, integrateddynamics, integrateddynamicscompat, integratedtunnels, integratedtunnelscompat, integrationforegoing, inventorytweaks, ironchest, itemstages, itemzoom, jaopca, oredictinit, jaopcaadditions, jaopcasingularities, jehc, jei, jeibees, journeymap, justanothersnad, justthetips, kleeslabs, libvulpes, lootbags, lunatriuscore, magipsi, magicbees, magneticraft, mantle, mekanism, mekanismgenerators, mekanismtools, moartinkers, mobstages, modelloader, modnametooltip, modtweaker, morechickens, moreoverlays, morphtool, morpheus, mousetweaks, mtlib, multistorage, mysticalagradditions, mysticalagriculture, nibbler, nmsot, neid, nuclearcraft, ocsensors, ocxnetdriver, openblocks, opencomputers, openmods, oreexcavation, p455w0rdslib, packmode, harvestcraft, persistentbits, placebo, platforms, playerskins, plustic, pneumaticcraft, projecte, psi, quark, questbook, randomthings, randomtweaks, rangedpumps, reauth, reborncore, recipestages, redstonearsenal, redstoneflux, xreliquary, resourceloader, rftools, rftoolscontrol, rftoolsdim, rockcandy, roost, sgextraparts, shearmadness, shetiphiancore, silentlib, silentgems, simplyjetpacks, sc, skyresources, solcarrot, sonarcore, soot, spartanshields, spatialservermod, bq_standard, statues, storagedrawers, storagedrawersextra, structuredcrafting, tconstruct, techreborn, teslacorelib_registries, teslacorelib, texfix, beneath, thedragonlib, theoneprobe, thermalcultivation, thermaldynamics, thermalexpansion, thermalfoundation, tinker_io, tcomplement, tinkerskyblock, tinkerstages, tinkertoolleveling, tipthescales, toastcontrol, tombstone, topaddons, torchmaster, treegrowingsimulator, twilightforest, valkyrielib, voidislandcontrol, wct, wrapup, xnet, xtones, yabba, ynot, yoyos, zerocore, zettaindustries] at SERVER
+[03:04:13] [main/INFO]: Connecting to msb3.teamrapturemc.stream, 25565
+[03:04:14] [Netty Client IO #3/INFO] [FML]: Server protocol version 2
+[03:04:14] [Netty Client IO #3/INFO] [FML]: Attempting connection with missing mods [betterthanbunnies, betterthanllamas, controlling, ctgui, ctm, custombackgrounds, custommainmenu, defaultoptions, googlyeyes, itemzoom, modnametooltip, moreoverlays, mousetweaks, reauth, resourceloader, texfix, tipthescales, toastcontrol] at SERVER
+[03:04:16] [Netty Client IO #3/INFO] [FML]: Injecting existing registry data into this client instance
+[03:04:35] [Netty Client IO #3/INFO] [FML]: Applying holder lookups
+[03:04:35] [Netty Client IO #3/INFO] [FML]: Holder lookups applied
+[03:04:35] [Netty Client IO #3/INFO] [FML]: Unexpected packet during modded negotiation - assuming vanilla or keepalives : net.minecraft.network.play.server.SPacketChat
+[03:04:35] [Netty Client IO #3/INFO] [FML]: Unexpected packet during modded negotiation - assuming vanilla or keepalives : net.minecraft.network.play.server.SPacketChat
+[03:04:35] [main/INFO]: [CHAT] [G-msb3] [V] mevto: i can't make esd to work :p
+[03:04:35] [main/INFO]: [CHAT] [G-msb3] [V] resonate01: the small crate is basically 2 double chests
+[03:04:36] [Netty Client IO #3/INFO] [FML]: [Netty Client IO #3] Client side modded connection established
+[03:04:36] [Netty Client IO #3/INFO] [mcjty.lib.varia.Logging]: DimensionSyncPacket: Registering: 
+[03:04:36] [main/INFO] [mcjty.lib.varia.Logging]: Received dimension information from server
+[03:04:36] [main/INFO] [Astral Sorcery]: [AstralSorcery] Using gateway screenshots for folder 'msb3.teamrapturemc.stream_66.70.181.158_25565'
+[03:04:44] [main/INFO]: [CHAT] PaiAtiraNele has joined the network!
+[03:04:44] [main/INFO]: [CHAT] Type /server <name> to join that server
+[03:04:44] [Netty Client IO #3/WARN] [journeymap]: dim0 (Initialized) Bad configField entry during updateFrom(): enabled=null
+[03:04:44] [main/INFO] [STDOUT]: [com.cazsius.solcarrot.handler.MessageFoodList$Handler:handle:57]: List: []
+[03:04:44] [main/INFO] [projecte]: Receiving EMC data from server.
+[03:04:44] [main/INFO] [projecte]: Received all packets!
+[03:04:44] [Netty Client IO #3/ERROR] [FML]: NetworkDispatcher exception
+java.io.IOException: Foi forçado o cancelamento de uma conexão existente pelo host remoto
+	at sun.nio.ch.SocketDispatcher.read0(Native Method) ~[?:1.8.0_161]
+	at sun.nio.ch.SocketDispatcher.read(Unknown Source) ~[?:1.8.0_161]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(Unknown Source) ~[?:1.8.0_161]
+	at sun.nio.ch.IOUtil.read(Unknown Source) ~[?:1.8.0_161]
+	at sun.nio.ch.SocketChannelImpl.read(Unknown Source) ~[?:1.8.0_161]
+	at io.netty.buffer.PooledUnsafeDirectByteBuf.setBytes(PooledUnsafeDirectByteBuf.java:288) ~[netty-all-4.1.9.Final.jar:4.1.9.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1100) ~[netty-all-4.1.9.Final.jar:4.1.9.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:372) ~[netty-all-4.1.9.Final.jar:4.1.9.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:123) [netty-all-4.1.9.Final.jar:4.1.9.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:624) [netty-all-4.1.9.Final.jar:4.1.9.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:559) [netty-all-4.1.9.Final.jar:4.1.9.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:476) [netty-all-4.1.9.Final.jar:4.1.9.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:438) [netty-all-4.1.9.Final.jar:4.1.9.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858) [netty-all-4.1.9.Final.jar:4.1.9.Final]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_161]
+[03:04:44] [Netty Client IO #3/INFO] [Astral Sorcery]: [AstralSorcery] Cleaning client cache...
+[03:04:44] [Netty Client IO #3/INFO] [Astral Sorcery]: [AstralSorcery] Cleared cached client data! Disconnected from server.
+[03:04:44] [Netty Client IO #3/INFO] [SimplyJetpacks]: Loading configuration files
+[03:05:06] [main/INFO] [FML]: Applying holder lookups
+[03:05:06] [main/INFO] [FML]: Holder lookups applied
+[03:05:14] [main/INFO] [Mekanism]: VoiceServer: Stopping client connection...
+[03:05:14] [main/ERROR] [Mekanism]: VoiceServer: Error while stopping client connection.
+[03:05:14] [main/INFO] [STDERR]: [mekanism.client.voice.VoiceClient:disconnect:81]: java.lang.NullPointerException
+[03:05:14] [main/INFO] [STDERR]: [mekanism.client.voice.VoiceClient:disconnect:81]: 	at mekanism.client.voice.VoiceClient.disconnect(VoiceClient.java:68)
+[03:05:14] [main/INFO] [STDERR]: [mekanism.client.voice.VoiceClient:disconnect:81]: 	at mekanism.client.MekanismClient.reset(MekanismClient.java:51)
+[03:05:14] [main/INFO] [STDERR]: [mekanism.client.voice.VoiceClient:disconnect:81]: 	at mekanism.client.ClientTickHandler.tickStart(ClientTickHandler.java:139)
+[03:05:14] [main/INFO] [STDERR]: [mekanism.client.voice.VoiceClient:disconnect:81]: 	at mekanism.client.ClientTickHandler.onTick(ClientTickHandler.java:103)
+[03:05:14] [main/INFO] [STDERR]: [mekanism.client.voice.VoiceClient:disconnect:81]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_2484_ClientTickHandler_onTick_ClientTickEvent.invoke(.dynamic)
+[03:05:14] [main/INFO] [STDERR]: [mekanism.client.voice.VoiceClient:disconnect:81]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+[03:05:14] [main/INFO] [STDERR]: [mekanism.client.voice.VoiceClient:disconnect:81]: 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:179)
+[03:05:14] [main/INFO] [STDERR]: [mekanism.client.voice.VoiceClient:disconnect:81]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onPreClientTick(FMLCommonHandler.java:343)
+[03:05:14] [main/INFO] [STDERR]: [mekanism.client.voice.VoiceClient:disconnect:81]: 	at net.minecraft.client.Minecraft.func_71407_l(Minecraft.java:1706)
+[03:05:14] [main/INFO] [STDERR]: [mekanism.client.voice.VoiceClient:disconnect:81]: 	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:1096)
+[03:05:14] [main/INFO] [STDERR]: [mekanism.client.voice.VoiceClient:disconnect:81]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:397)
+[03:05:14] [main/INFO] [STDERR]: [mekanism.client.voice.VoiceClient:disconnect:81]: 	at net.minecraft.client.main.Main.main(SourceFile:123)
+[03:05:14] [main/INFO] [STDERR]: [mekanism.client.voice.VoiceClient:disconnect:81]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[03:05:14] [main/INFO] [STDERR]: [mekanism.client.voice.VoiceClient:disconnect:81]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[03:05:14] [main/INFO] [STDERR]: [mekanism.client.voice.VoiceClient:disconnect:81]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[03:05:14] [main/INFO] [STDERR]: [mekanism.client.voice.VoiceClient:disconnect:81]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[03:05:14] [main/INFO] [STDERR]: [mekanism.client.voice.VoiceClient:disconnect:81]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[03:05:14] [main/INFO] [STDERR]: [mekanism.client.voice.VoiceClient:disconnect:81]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[03:05:14] [main/INFO] [Mekanism]: Reloaded config.
+[03:05:14] [main/FATAL]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NullPointerException
+	at java.util.concurrent.FutureTask.report(Unknown Source) ~[?:1.8.0_161]
+	at java.util.concurrent.FutureTask.get(Unknown Source) ~[?:1.8.0_161]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:1086) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:397) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_161]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_161]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_161]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_161]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.lang.NullPointerException
+	at moze_intel.projecte.proxies.ClientProxy.getClientTransmutationProps(ClientProxy.java:78) ~[ClientProxy.class:?]
+	at moze_intel.projecte.network.packets.KnowledgeSyncPKT$Handler$1.run(KnowledgeSyncPKT.java:43) ~[KnowledgeSyncPKT$Handler$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) ~[?:1.8.0_161]
+	at java.util.concurrent.FutureTask.run(Unknown Source) ~[?:1.8.0_161]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 9 more
